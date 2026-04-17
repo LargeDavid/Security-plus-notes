@@ -1,0 +1,19 @@
+# Day 1 – Security Basics
+
+## CIA Triad
+- Confidentiality: Protect data from unauthorized access
+- Integrity: Ensure data is not altered
+- Availability: Ensure systems/data are accessible when needed
+
+## AAA
+- Authentication: Verifying identity
+- Authorization: Granting access
+- Accounting: Tracking activity
+
+## Security Controls
+- Preventive: Stop attacks (firewalls)
+- Detective: Identify attacks (logs, IDS)
+- Corrective: Fix after attack (patching)
+
+## What I Learned
+Security is not just tools — it is structured protection using controls and access management.
