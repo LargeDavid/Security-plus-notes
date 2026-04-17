@@ -17,3 +17,13 @@
 
 ## What I Learned
 Security is not just tools — it is structured protection using controls and access management.
+
+## Real-World Application
+
+- CIA Triad helps organizations protect sensitive data and maintain system reliability.
+- AAA ensures only authorized users access systems and actions are tracked.
+- Security controls reduce risk by preventing, detecting, and correcting threats.
+
+## Key Takeaway
+
+Security is not just tools — it is a structured system of protecting data, controlling access, and monitoring activity.
