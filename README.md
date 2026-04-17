@@ -14,3 +14,6 @@ To build practical cybersecurity understanding and exam readiness.
 
 ## Progress
 Day 1: Security basics (CIA triad, AAA, security controls)
+
+## Goal
+To build practical cybersecurity understanding and transition into a Security Operations (SOC) role. 
